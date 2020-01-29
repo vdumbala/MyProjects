@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: #000;
+}
+
+a:hover {
+  color: #93afbf;
+}
+
+a:active {
+  color: white;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  botton: 300px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: 400;
+}
+
+.intro{
+  width:30%;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.middle-container {}
+
+.Pic {
+    border-radius: 100px;
+}
+
+.skills{
+  display: inline-block;
+}
+
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border bottom: none;
+  width 4%;
+  margin 100px auto;
+}
+
+.Pic1{
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.Pic2{
+  border-radius: 100px;
+  float: right;
+  margin-left: 30;
+}
+
+
+.skill-row1{
+  margin 100px auto 100px auto;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+
+}
+
+.skill-row2{
+  margin 100px auto 100px auto;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.contact-me{
+  width: 40%;
+  margin:40px auto 60px auto;
+  Color: black;
+}
+.btn {
+  font-family: verdana;
+  color: #FFFFFF !important;
+  font-size: 15px;
+background: #EED011;
+
+}
+/***********CLASS SELECTORS***********/
+
+
+
+
+.bottom-container {
+
+  background-color: blue;
+  color: white;
+}
